@@ -1,7 +1,15 @@
-# Кнопка с анимацией "волна"
+# 🌊 Кнопка с анимацией "волна" 🌊
 
 Источник: видео "Как сделать красивую кнопку с анимацией CSS HTML // CSS3 эффекты туториал // Фрилансер по жизни" 
 https://vkvideo.ru/video-125918837_456239137?sel=19460369
+
+![2024-12-21_14-35-20](https://github.com/user-attachments/assets/870646a4-683f-4c80-9884-1bb610d3fa7f)
+
+
+
+https://github.com/user-attachments/assets/1beeb8fc-3bf9-4042-9617-d5f79b0c9c04
+
+
 
 1. создаем проект в программе "WebStorm" для работы с JavaScript (скачать бесплатную версию https://www.jetbrains.com/webstorm/)
 2. создаем файлы index.html, style.css, script.js в папке проекта
@@ -369,6 +377,9 @@ transition: all 0.8s ease 0s;
 Для тени берем rgba из цвета волн.
 Заходим на сайт http://hex2rgba.devoth.com/, вставляем в большое окошко #4973ff, программа выдает цвет в виде rgba
 
+![20](https://github.com/user-attachments/assets/1cc880eb-b7c6-4051-8825-f63a6224eb1e)
+
+
 ```css
 /*добавляем тени к кнопке - цвет такой же, как у волны .wave-btn_waves - background-color: #4973ff*/
 /*Кнопка становится ярче при наведении курсора мыши*/
@@ -418,6 +429,8 @@ box-shadow: 0 0 40px rgba(73, 115, 255, 0.6);
 </body>
 </html>
 ```
+
+![2024-12-21_14-24-40](https://github.com/user-attachments/assets/80385c8e-540c-4739-8389-dc7c0b9eae17)
 
 2. файл style.css
 
@@ -653,5 +666,12 @@ body {
     }
 }
 ```
+
+![2024-12-21_14-25-00](https://github.com/user-attachments/assets/c1a0a7d6-c8ae-4b3e-92aa-e88f5225fea3)
+![2024-12-21_14-25-22](https://github.com/user-attachments/assets/024cb2be-46ef-41bf-8c0c-c8fe50517f7c)
+![2024-12-21_14-25-48](https://github.com/user-attachments/assets/e4a23def-6220-4d95-b89d-3f55344c2e71)
+![2024-12-21_14-26-32](https://github.com/user-attachments/assets/d98ef4b4-2523-40d6-8138-f7700eea49f6)
+![2024-12-21_14-26-52](https://github.com/user-attachments/assets/661426ae-116f-4ec5-bb9f-3045f122802b)
+
 
 3. script.js пустой
