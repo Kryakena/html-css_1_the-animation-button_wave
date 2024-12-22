@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/1beeb8fc-3bf9-4042-9617-d5f79b0c9c04
     <meta charset="utf-8">
     <!--адаптив-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <title>Title</title>
 </head>
 <!--отображаемое тело страницы-->
 <body>
@@ -407,7 +406,6 @@ box-shadow: 0 0 40px rgba(73, 115, 255, 0.6);
     <meta charset="utf-8">
     <!--адаптив-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <title>Title</title>
 </head>
 <!--отображаемое тело страницы-->
 <body>
